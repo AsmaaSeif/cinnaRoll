@@ -31,5 +31,3 @@ A modern, responsive **cinnamon roll bakery website** built with **HTML, CSS, Ja
 
 ---
 
-## 📂 Project Structure
-
